@@ -10,23 +10,23 @@
   "dependencies": {
     "@cloudflare/kv-asset-handler": "^0.2.0",
     "@cloudflare/workers-types": "^3.16.0",
-    "@miniflare/core": "^2.8.2",
-    "@miniflare/http-server": "^2.8.2",
-    "@miniflare/shared": "^2.8.2",
-    "@miniflare/web-sockets": "^2.8.2",
+    "@miniflare/core": "^2.9.0",
+    "@miniflare/http-server": "^2.9.0",
+    "@miniflare/shared": "^2.9.0",
+    "@miniflare/web-sockets": "^2.9.0",
     "@rollup/plugin-commonjs": "^22.0.2",
     "@rollup/plugin-json": "^4.1.0",
-    "@rollup/plugin-node-resolve": "^13.3.0",
+    "@rollup/plugin-node-resolve": "^14.1.0",
     "@types/ws": "^8.5.3",
-    "miniflare": "^2.8.2",
+    "miniflare": "^2.9.0",
     "rollup": "^2.79.0",
     "terser": "^5.15.0",
     "ws": "^8.8.1"
   },
   "devDependencies": {
-    "@types/node": "^18.7.16",
+    "@types/node": "^18.7.18",
     "solid-start": "workspace:0.1.0-alpha.105",
-    "vite": "^3.1.0"
+    "vite": "^3.1.3"
   },
   "peerDependencies": {
     "solid-start": "*",
